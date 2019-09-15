@@ -6,6 +6,7 @@ export const theme = {
   fontSizes: [12, 14, 16, 18, 20, 24, 30, 36, 48, 60, 72],
   breakpoints: ["40em", "52em", "64em"],
   colors: {
+    grey: "hsl(0, 0%, 60%)",
     background: "hsl(0, 0%, 98%)"
   }
 };
