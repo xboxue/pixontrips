@@ -24,5 +24,10 @@ module.exports = {
     react: {
       version: "detect"
     }
+  },
+  env: {
+    es6: true,
+    node: true,
+    browser: true
   }
 };

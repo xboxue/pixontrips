@@ -1,8 +1,10 @@
+import { MDXProvider } from "@mdx-js/react";
 import App from "next/app";
 import { createGlobalStyle, ThemeProvider } from "styled-components";
 import { Footer } from "../components/Footer";
 import { Layout } from "../components/Layout";
 import { Nav } from "../components/Nav";
+import { components } from "../styles/markdown";
 import { theme } from "../styles/theme";
 
 const GlobalStyle = createGlobalStyle`
@@ -19,14 +21,16 @@ class MyApp extends App {
     return (
       <>
         <ThemeProvider theme={theme}>
-          <>
-            <Nav />
-            <Layout pt="125px">
-              <GlobalStyle />
-              <Component {...pageProps} />
-            </Layout>
-            <Footer />
-          </>
+          <MDXProvider components={components}>
+            <>
+              <Nav />
+              <Layout pt="125px">
+                <GlobalStyle />
+                <Component {...pageProps} />
+              </Layout>
+              <Footer />
+            </>
+          </MDXProvider>
         </ThemeProvider>
       </>
     );
