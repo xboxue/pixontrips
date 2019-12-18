@@ -1,4 +1,4 @@
-export const metadata = { title: "Camping trip to Parc National du Mont-Tremblant", date: "2018-08-11", public: true, thumbnail: "2018/08/DSC2443-Edit.jpg", description: " The grandiose group camping tradition  has become even more popular this year.  The event on the..." }
+export const metadata = { title: "Camping trip to Parc National du Mont-Tremblant", date: "2018-08-11", public: true, thumbnail: "2018/08/DSC2443-Edit.jpg", featured: true, description: " The grandiose group camping tradition has become even more popular this year.  The event on the..." }
 
 [The grandiose group camping tradition](http://pixontrips.com/blogs/camping-at-murphys/) has become even more popular this year.  The event on the Civic long weekend has attracted over 90 participants ranging from kids of few years old to seniors in their 80s.
 

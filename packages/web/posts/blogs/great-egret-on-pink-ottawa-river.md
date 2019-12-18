@@ -1,4 +1,4 @@
-export const metadata = { title: "Great Egret on Pink Ottawa River", date: "2018-08-28", public: true, thumbnail: "2018/08/L8A4317-Edit-2.jpg", description: "I was awake at 4:30AM and could not sleep anymore.  Jeffrey posted a few really nice Green Heron shots..." }
+export const metadata = { title: "Great Egret on Pink Ottawa River", date: "2018-08-28", public: true, thumbnail: "2018/08/L8A4317-Edit-2.jpg", featured: true, description: "I was awake at 4:30AM and could not sleep anymore.  Jeffrey posted a few really nice Green Heron shots..." }
 
 I was awake at 4:30AM and could not sleep anymore.  Jeffrey posted a few really nice Green Heron shots taken at Andrew Haydon Park on a WeChat birding group.  Maybe I will have some luck today.  Headed out at 5:30AM, arrived at Andrew Haydon Park when it was still dark.
 

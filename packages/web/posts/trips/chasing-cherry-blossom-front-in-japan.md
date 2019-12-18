@@ -1,4 +1,4 @@
-export const metadata = { title: "Chasing Cherry Blossom Front in Japan", date: "2018-07-14", public: true, thumbnail: "2018/07/DSC1322-Edit.jpg", description: "Viewing cherry blossoms in Japan has been on Ellen's bucket list ever since she visited Tokyo in 2016. ..." }
+export const metadata = { title: "Chasing Cherry Blossom Front in Japan", date: "2018-07-14", public: true, thumbnail: "2018/07/DSC1322-Edit.jpg", featured: true, description: "Viewing cherry blossoms in Japan has been on Ellen's bucket list ever since she visited Tokyo in 2016. ..." }
 
 Viewing cherry blossoms in Japan has been on Ellen's bucket list ever since she visited Tokyo in 2016.  Ellen promptly put together a 2-week trip plan after I said I could join her.
 
