@@ -5,37 +5,52 @@ interface RawPost {
     title: string;
     description: string;
     date: string;
-    public: boolean;
+    public?: boolean;
     thumbnail?: string;
+    featured?: boolean;
   };
-  default: React.ReactNode;
+  default: React.ComponentType;
 }
 
 export interface Post {
-  url: string;
+  id: string;
+  path: string;
   title: string;
   description: string;
   date: Date;
-  public: boolean;
+  public?: boolean;
   thumbnail?: string;
+  featured?: boolean;
+  MDXDocument: React.ComponentType;
 }
 
 export const getPosts = (): Post[] => {
   // Context module exports require function that takes filename as argument
-  const context = require.context("../pages", true, /\.mdx?$/);
+  const context = require.context("../posts", true, /\.mdx?$/);
 
   // Keys property returns array of filenames
   return context
     .keys()
     .map(key => {
-      const { metadata }: RawPost = context(key);
+      const post: RawPost = context(key);
 
       return {
-        ...metadata,
-        url: path.dirname(key) + "/" + path.basename(key, path.extname(key)),
-        date: new Date(metadata.date)
+        ...post.metadata,
+        id: path.basename(key, path.extname(key)),
+        path: path.dirname(key),
+        date: new Date(post.metadata.date),
+        MDXDocument: post.default
       };
     })
     .filter(post => post.public)
     .sort((a, b) => (a.date < b.date ? 1 : -1));
 };
+
+export const findPost = (id: string): Post =>
+  getPosts().find(post => post.id === id);
+
+export const getFeaturedPosts = (): Post[] =>
+  getPosts().filter(post => post.featured);
+
+export const getTripPosts = (): Post[] =>
+  getPosts().filter(post => path.basename(post.path) === "trips");

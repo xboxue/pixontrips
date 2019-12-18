@@ -1,11 +1,11 @@
 import { Box } from "rebass";
 import { BlogCard } from "../components/Card/BlogCard";
 import { CardGrid } from "../components/CardGrid";
-import { getPosts } from "../utils/getPosts";
+import { getTripPosts } from "../utils/getPosts";
 
 const Blogs = () => (
   <CardGrid>
-    {getPosts().map(post => (
+    {getTripPosts().map(post => (
       <Box
         key={post.id}
         width={[1, "calc(50% - 16px)", "calc(33.3% - 16px)"]}
