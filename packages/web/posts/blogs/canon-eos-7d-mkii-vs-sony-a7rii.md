@@ -1,4 +1,4 @@
-export const metadata = { title: "Canon EOS 7D MKII vs. Sony A7rII", date: "2017-06-10", public: true, description: "Am I out of mind?  Why on earth would I compare a wildlife/sport/action camera (EOS 7D MKII) with a..." }
+export const metadata = { title: "Canon EOS 7D MKII vs. Sony A7rII", date: "2017-06-10", public: true, thumbnail: "", description: "Am I out of mind?  Why on earth would I compare a wildlife/sport/action camera (EOS 7D MKII) with a..." }
 
 Am I out of mind?  Why on earth would I compare a wildlife/sport/action camera (EOS 7D MKII) with a camera mainly designed for landscape photography (Sony A7rII)?  There is very little in common between the two.
 

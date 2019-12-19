@@ -26,7 +26,7 @@ Lunenburg 号称是联合国的世界文化遗产城市，那里至今还保留�
 
 按照工作人员给我们画的线路，不一会儿就找到了这个叫 Red Door Bed & Breakfast 的家庭旅店。
 
-[![The Red Door B&B - Pix on Trips](http://pixontrips.com/wp-content/uploads/2016/07/Mahone_bay_BB2.jpg)](http://pixontrips.com/the-red-door-bb/) The Red Door B&B at Mahone Bay, Nova Scotia, Canada
+<BlogPhoto alt="The Red Door B&B - Pix on Trips" url="http://pixontrips.com/wp-content/uploads/2016/07/Mahone_bay_BB2.jpg" href="http://pixontrips.com/the-red-door-bb/" caption="The Red Door B&B at Mahone Bay, Nova Scotia, Canada" />
 
 房东是一位七十来岁的白人老太太。一见面就告诉我们这儿几年前来住过一家中国人，从安大略来的。然后领我们把几个房间都看了一下。这是一个两层楼的独立屋，一层有厨房，dining room，living room 和洗衣房；另外还有一间房用来做客房了。给我们住的卧室和卫生间在二楼。卧室比我想象的小，放了两张单人床。
 
@@ -44,25 +44,25 @@ Lunenburg 号称是联合国的世界文化遗产城市，那里至今还保留�
 
 出了 Red Door 就是 Main Street。从地图上看，这条街一直通到镇中心。我们沿着 Main 往前走，不到十分钟就来到了海湾边。海湾边三座哥特式的教堂在夕阳下格外引人注目。我隐约想起在房东家看到一副类似的风景画。教堂前的空地上扬声器播正放着重金属音乐，好象是有什么人来表演。海堤上坐着等候的人群，三三两两地聊着天。
 
-[![Harbour of Mahone Bay at sunset with churches in the background](http://pixontrips.com/wp-content/uploads/2016/07/Mahone_bay3.jpg)](http://pixontrips.com/harbour-of-mahone-bay/) Harbour of Mahone Bay at sunset with churches in the background
+<BlogPhoto alt="Harbour of Mahone Bay at sunset with churches in the background" url="http://pixontrips.com/wp-content/uploads/2016/07/Mahone_bay3.jpg" href="http://pixontrips.com/harbour-of-mahone-bay/" caption="Harbour of Mahone Bay at sunset with churches in the background" />
 
-[![Harbour of Mahone Bay with a boat in the forground](http://pixontrips.com/wp-content/uploads/2016/07/Mahone_bay1.jpg)](http://pixontrips.com/trips/mahone-bay/mahone-bay-harbour-at-sunset/) Harbour of Mahone Bay with a boat in the foreground
+<BlogPhoto alt="Harbour of Mahone Bay with a boat in the forground" url="http://pixontrips.com/wp-content/uploads/2016/07/Mahone_bay1.jpg" href="http://pixontrips.com/trips/mahone-bay/mahone-bay-harbour-at-sunset/" caption="Harbour of Mahone Bay with a boat in the foreground" />
 
 沿着 Main 继续往前走，来到一个码头。这里聚集了不少人，扎着堆说话，让我觉得这镇子所有的人都认识似的。码头上支起了几个白色的棚子，棚子内外有卖纪念品的，还有各式各样的小展览。来码头的 人们大概都是等着看焰火。
 
-[![People wait for a show at harbour of Mahone Bay](http://pixontrips.com/wp-content/uploads/2016/07/Mahone_bay5.jpg)](http://pixontrips.com/trips/mahone-bay/harbour-of-mahone-bay-at-dusk/) People wait for a show at harbour of Mahone Bay
+<BlogPhoto alt="People wait for a show at harbour of Mahone Bay" url="http://pixontrips.com/wp-content/uploads/2016/07/Mahone_bay5.jpg" href="http://pixontrips.com/trips/mahone-bay/harbour-of-mahone-bay-at-dusk/" caption="People wait for a show at harbour of Mahone Bay" />
 
 我们嫌 10 点多太晚，在码头这看了一会儿就离开了。回到 Red Door，我翻出了睡袋和睡垫独自一人睡到一楼的厅里。
 
 第二天很早就听见有人说话，从卡尔加里来的一家三口起来了。我睁开眼睛环顾了一下四周，房间布置得很别致。沙发、椅子、雕花的小箱子、小板凳在家具店大概都找不到。快速浏览了茶几上放的一本 2003 年飓风 Juan 袭击 Halifax 的图册，是该出去的时候了。
 
-[![Living room of Red Door B&B with hundred years old furnitures](http://pixontrips.com/wp-content/uploads/2016/07/Mahone_bay_BB3.jpg)](http://pixontrips.com/trips/mahone-bay/living-room-of-red-door-bb/) Living room of Red Door B&B with hundred years old furnitures
+<BlogPhoto alt="Living room of Red Door B&B with hundred years old furnitures" url="http://pixontrips.com/wp-content/uploads/2016/07/Mahone_bay_BB3.jpg" href="http://pixontrips.com/trips/mahone-bay/living-room-of-red-door-bb/" caption="Living room of Red Door B&B with hundred years old furnitures" />
 
 出了客厅和所有的人都 Morning 一遍。房东在给我们准备早餐。我们家她给打了十二个鸡蛋。老太太一边忙着一边和我们聊天。说她这旅馆今年是第六年，生意一年比一年好。我们夸她这房子还有位置不错。她很自豪地说她丈夫就出生在这栋房子里。坐在一边的女儿插话道：我看见他们的门口写着房子建于 1776 年。
 
-[![Red Door B&B of Mahone Bay, Nova Scotia build in 1776](http://pixontrips.com/wp-content/uploads/2016/07/Mahone_bay_BB6.jpg)](http://pixontrips.com/trips/mahone-bay/red-door-bb-of-mahone-bay-nova-scotia-canada/) Red Door B&B of Mahone Bay, Nova Scotia build in 1776
+<BlogPhoto alt="Red Door B&B of Mahone Bay, Nova Scotia build in 1776" url="http://pixontrips.com/wp-content/uploads/2016/07/Mahone_bay_BB6.jpg" href="http://pixontrips.com/trips/mahone-bay/red-door-bb-of-mahone-bay-nova-scotia-canada/" caption="Red Door B&B of Mahone Bay, Nova Scotia build in 1776" />
 
-[![Backyark of Red Door B&B, the house was build out of good quality lumber back in 1776](http://pixontrips.com/wp-content/uploads/2016/07/Mahone_bay_BB5.jpg)](http://pixontrips.com/trips/mahone-bay/backyark-of-red-door-bb/) Backyark of Red Door B&B, the house was build out of good quality lumber back in 1776
+<BlogPhoto alt="Backyark of Red Door B&B, the house was build out of good quality lumber back in 1776" url="http://pixontrips.com/wp-content/uploads/2016/07/Mahone_bay_BB5.jpg" href="http://pixontrips.com/trips/mahone-bay/backyark-of-red-door-bb/" caption="Backyark of Red Door B&B, the house was build out of good quality lumber back in 1776" />
 
 “真是那时候建的吗？”  
 “他（老太太的丈夫）是这么说的”，老太太笑道。
@@ -81,13 +81,13 @@ Lunenburg 号称是联合国的世界文化遗产城市，那里至今还保留�
 
 “我煮了咖啡，谁要不喝我可以烧茶”老太太问道
 
-[![Two owners of the Red Door B&B stand in the kitchen, Mahone Bay, Nova Scotia](http://pixontrips.com/wp-content/uploads/2016/07/IMG007.jpg)](http://pixontrips.com/trips/mahone-bay/owners-of-the-red-door-bb-mahone-bay-nova-scotia/) Two owners of the Red Door B&B stand in the kitchen, Mahone Bay, Nova Scotia
+<BlogPhoto alt="Two owners of the Red Door B&B stand in the kitchen, Mahone Bay, Nova Scotia" url="http://pixontrips.com/wp-content/uploads/2016/07/IMG007.jpg" href="http://pixontrips.com/trips/mahone-bay/owners-of-the-red-door-bb-mahone-bay-nova-scotia/" caption="Two owners of the Red Door B&B stand in the kitchen, Mahone Bay, Nova Scotia" />
 
 岳母要了茶，女儿说她要桔子汁，我们告诉她儿子只要牛奶。大家正在忙乎，儿子气喘吁吁地跑进来大声说到“爸爸，狗把我们的球咬破了”
 
 我赶忙跑出去，告诉儿子一定要能把球从狗腿下夺回来。哪知那狗见我来了狂吠不止，还作出一副进攻的架势。 踢了这么多年的球还没见过这么厉害的防守队员。好男不和狗斗，算了吧 。那狗见我不再过来，一脚将球踢开，然后又猛扑过去，一口将球咬住，还不时得意地发出嗷嗷的叫声。
 
-[![Dog and soccer ball in the back yard of Red Door B&B, Mahone Bay, Nova Scotia, Canada](http://pixontrips.com/wp-content/uploads/2016/07/IMG005.jpg)](http://pixontrips.com/trips/mahone-bay/dog-and-soccer-ball-in-the-back-yard-of-red-door-bb/) Dog and soccer ball in the back yard of Red Door B&B, Mahone Bay, Nova Scotia, Canada
+<BlogPhoto alt="Dog and soccer ball in the back yard of Red Door B&B, Mahone Bay, Nova Scotia, Canada" url="http://pixontrips.com/wp-content/uploads/2016/07/IMG005.jpg" href="http://pixontrips.com/trips/mahone-bay/dog-and-soccer-ball-in-the-back-yard-of-red-door-bb/" caption="Dog and soccer ball in the back yard of Red Door B&B, Mahone Bay, Nova Scotia, Canada" />
 
 “狗已经把球咬破了，拿回来也没用了”我向儿子解释  
 “爸爸这是新球，他们会赔吗”  
@@ -126,7 +126,7 @@ Lunenburg 号称是联合国的世界文化遗产城市，那里至今还保留�
 
 警察已把 Main 的入口堵住，禁止机动车穿行。镇里的人们都拿着椅子坐在街上。由车队、马队、乐队、老人、小孩组成的各种形形色色的游行队伍陆续开来。我忙着照相，小孩们在等候下一个发糖的游行队伍，观众不断地和游行队伍中的熟人打招呼。。。
 
-[![Women dance on float during Wooden Boat Festival, Mahone Bay, Nova Scotia, Canada](http://pixontrips.com/wp-content/uploads/2016/07/Mahone_bay2.jpg)](http://pixontrips.com/trips/mahone-bay/women-dance-on-float/) Women dance on float during Wooden Boat Festival, Mahone Bay, Nova Scotia, Canada
+<BlogPhoto alt="Women dance on float during Wooden Boat Festival, Mahone Bay, Nova Scotia, Canada" url="http://pixontrips.com/wp-content/uploads/2016/07/Mahone_bay2.jpg" href="http://pixontrips.com/trips/mahone-bay/women-dance-on-float/" caption="Women dance on float during Wooden Boat Festival, Mahone Bay, Nova Scotia, Canada" />
 
 持续了半个多小时的游行结束了，我们得赶紧离开 Mahone Bay。妻子和房东结帐，提了一句球怎么办？老太太问多少钱，妻子告诉她税后２０。老太太算了半天，８５＋３０－２０，终于算出是９５块。妻子付完钱后，对老太太说“感谢她准备的早餐，我们非常喜欢这里，在渥太华住了五年也没见过这么大的游行”
 
@@ -134,6 +134,6 @@ Lunenburg 号称是联合国的世界文化遗产城市，那里至今还保留�
 
 妻子和我把最后的行李（三辆自行车）挂好了，我发动了车，驶向我们期待以久的目的地 Lunenburg。
 
-[![Boat leaving Lunenburg harbour, Nova Scotia, Canada](http://pixontrips.com/wp-content/uploads/2016/07/Lunurnburg1.jpg)](http://pixontrips.com/trips/mahone-bay/boat-leaving-lunenburg-harbour/) Boat leaving Lunenburg harbour, Nova Scotia, Canada
+<BlogPhoto alt="Boat leaving Lunenburg harbour, Nova Scotia, Canada" url="http://pixontrips.com/wp-content/uploads/2016/07/Lunurnburg1.jpg" href="http://pixontrips.com/trips/mahone-bay/boat-leaving-lunenburg-harbour/" caption="Boat leaving Lunenburg harbour, Nova Scotia, Canada" />
 
 2005 08

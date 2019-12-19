@@ -6,11 +6,7 @@ import { getPosts } from "../utils/getPosts";
 const Blogs = () => (
   <CardGrid>
     {getPosts().map(post => (
-      <Box
-        key={post.id}
-        width={[1, "calc(50% - 16px)", "calc(33.3% - 16px)"]}
-        m={[1, 2]}
-      >
+      <Box key={post.id} width={[1, 1 / 2, 1 / 3]} px={[1, 2]}>
         <BlogCard post={post} />
       </Box>
     ))}

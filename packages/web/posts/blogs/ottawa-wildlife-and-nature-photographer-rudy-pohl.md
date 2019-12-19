@@ -1,4 +1,4 @@
-export const metadata = { title: "Ottawa wildlife and Nature photographer: Rudy Pohl", date: "2016-03-22", public: true, description: "Weather on Sunday March 20th was fabulous.  It was a bit cool but not enough to deter my temptation..." }
+export const metadata = { title: "Ottawa wildlife and Nature photographer: Rudy Pohl", date: "2016-03-22", public: true, thumbnail: "", description: "Weather on Sunday March 20th was fabulous.  It was a bit cool but not enough to deter my temptation..." }
 
 Weather on Sunday March 20th was fabulous.  It was a bit cool but not enough to deter my temptation to go out.
 

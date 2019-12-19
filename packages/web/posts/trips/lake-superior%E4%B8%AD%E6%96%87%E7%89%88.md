@@ -6,38 +6,38 @@ export const metadata = { title: "苏必利尔湖 (Lake Superior中文版)", dat
 
 1\) Agawa Rock Pictograph: 土著 Ojibwe 人在这里用象形绘画记录仪式、梦想和期望。难得在这么原始的地方既有美景又不乏历史。
 
-![Agawa Rocks - Pix on Trips](http://pixontrips.com/wp-content/uploads/2016/03/Agawa-Rocks.jpg) Agawa Rocks - Pix on Trips
+<BlogPhoto alt="Agawa Rocks - Pix on Trips" url="http://pixontrips.com/wp-content/uploads/2016/03/Agawa-Rocks.jpg" caption="Agawa Rocks - Pix on Trips" />
 
 2\) Agawa Rock 日落：悬崖石壁上画的动物叫 Misshepezhieu, Great Lynx。它是水中的精灵。
 
-![Agawa Rock at sunset - Pix on Trips](http://pixontrips.com/wp-content/uploads/2016/03/Agawa-Rock-at-sunset.jpg) Agawa Rock at sunset - Pix on Trips
+<BlogPhoto alt="Agawa Rock at sunset - Pix on Trips" url="http://pixontrips.com/wp-content/uploads/2016/03/Agawa-Rock-at-sunset.jpg" caption="Agawa Rock at sunset - Pix on Trips" />
 
 3\) 苏必利尔湖经常风浪大作，波涛汹涌。8 月份 60%的时间是不能行船的。难得有这样一天风平浪静，我们可以无忧无虑地荡桨在浩瀚的湖中央，尽享水天一色的美景。
 
-![Paddling on the Lake Superior - Pix on Trips](http://pixontrips.com/wp-content/uploads/2016/02/Paddling-on-the-Lake-Superior-1981.jpg) Paddling on the Lake Superior - Pix on Trips
+<BlogPhoto alt="Paddling on the Lake Superior - Pix on Trips" url="http://pixontrips.com/wp-content/uploads/2016/02/Paddling-on-the-Lake-Superior-1981.jpg" caption="Paddling on the Lake Superior - Pix on Trips" />
 
 4\) 苏必利尔湖省立公园的另一好出处是 Old Woman Bay。日落前从高处一览 Old Woman Bay 全景
 
-![Lake Superior - Pix on Trips](http://pixontrips.com/wp-content/uploads/2016/03/Lake-Superior-2.jpg) Lake Superior - Pix on Trips
+<BlogPhoto alt="Lake Superior - Pix on Trips" url="http://pixontrips.com/wp-content/uploads/2016/03/Lake-Superior-2.jpg" caption="Lake Superior - Pix on Trips" />
 
 5\) 盛夏苏必利尔湖也有热到 30 多度的时候。Old Woman Bay 旁的阵阵凉风，夕阳美景和卵石沙滩让人流连忘返。
 
-![Lake Superior at Dusk - Pix on Trips](http://pixontrips.com/wp-content/uploads/2016/03/Lake-Superior-at-Dusk-4808.jpg) Lake Superior at Dusk - Pix on Trips
+<BlogPhoto alt="Lake Superior at Dusk - Pix on Trips" url="http://pixontrips.com/wp-content/uploads/2016/03/Lake-Superior-at-Dusk-4808.jpg" caption="Lake Superior at Dusk - Pix on Trips" />
 
 6\) 苏必利尔湖的水清澈见底，是我见到最干净的天然水。
 
-![Close-up view of Beach pebble and pristine water, Lake Superior - Pix on Trips](http://pixontrips.com/wp-content/uploads/2016/06/Close-up-view-of-Beach-pebble-and-pristine-water-Lake-Superior.jpg) Close-up view of Beach pebble and pristine water, Lake Superior - Pix on Trips
+<BlogPhoto alt="Close-up view of Beach pebble and pristine water, Lake Superior - Pix on Trips" url="http://pixontrips.com/wp-content/uploads/2016/06/Close-up-view-of-Beach-pebble-and-pristine-water-Lake-Superior.jpg" caption="Close-up view of Beach pebble and pristine water, Lake Superior - Pix on Trips" />
 
-![Lake Superior - Pix on Trips](http://pixontrips.com/wp-content/uploads/2016/06/Lake-Superior.jpg) Lake Superior - Pix on Trips
+<BlogPhoto alt="Lake Superior - Pix on Trips" url="http://pixontrips.com/wp-content/uploads/2016/06/Lake-Superior.jpg" caption="Lake Superior - Pix on Trips" />
 
 7\) 从 Lake Superior Provincial Park 再往西行 2 个小时，就到了 Pukaskwa National Park。这里的沙滩与众不同。
 
-![Driftwood at shore of Lake Superior - Pix on Trips](http://pixontrips.com/wp-content/uploads/2016/03/Driftwood-at-shore-of-Lake-Superior.jpg) Driftwood at shore of Lake Superior - Pix on Trips
+<BlogPhoto alt="Driftwood at shore of Lake Superior - Pix on Trips" url="http://pixontrips.com/wp-content/uploads/2016/03/Driftwood-at-shore-of-Lake-Superior.jpg" caption="Driftwood at shore of Lake Superior - Pix on Trips" />
 
 8\) 众多漂到湖里的朽木被大浪推到沙滩旁
 
-![Driftwood at shore of Lake Superior - Pix on Trips](http://pixontrips.com/wp-content/uploads/2016/06/Driftwood-at-shore-of-Lake-Superior.jpg) Driftwood at shore of Lake Superior - Pix on Trips
+<BlogPhoto alt="Driftwood at shore of Lake Superior - Pix on Trips" url="http://pixontrips.com/wp-content/uploads/2016/06/Driftwood-at-shore-of-Lake-Superior.jpg" caption="Driftwood at shore of Lake Superior - Pix on Trips" />
 
 9\) 介于两个 Park 之间的小镇 Wawa：Wawa 镇上的一个小日杂商店
 
-![General Store in Wawa, Ontario, Canada - Pix on Trips](http://pixontrips.com/wp-content/uploads/2016/06/General-Store-in-Wawa-Ontario-Canada.jpg) General Store in Wawa, Ontario, Canada - Pix on Trips
+<BlogPhoto alt="General Store in Wawa, Ontario, Canada - Pix on Trips" url="http://pixontrips.com/wp-content/uploads/2016/06/General-Store-in-Wawa-Ontario-Canada.jpg" caption="General Store in Wawa, Ontario, Canada - Pix on Trips" />

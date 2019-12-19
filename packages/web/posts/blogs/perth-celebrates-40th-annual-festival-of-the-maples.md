@@ -4,4 +4,4 @@ export const metadata = { title: "Perth celebrates 40th annual festival of the m
 >
 > Perth & District Community Guide 2016
 
-![Perth of Ontario celebrates 40th annual festival of the maples - Pix on Trips](http://pixontrips.com/wp-content/uploads/2016/04/Perth-of-Ontario-celebrates-40th-annual-festival-of-the-maples-1.jpg) Perth of Ontario celebrates 40th annual festival of the maples - Pix on Trips
+<BlogPhoto alt="Perth of Ontario celebrates 40th annual festival of the maples - Pix on Trips" url="http://pixontrips.com/wp-content/uploads/2016/04/Perth-of-Ontario-celebrates-40th-annual-festival-of-the-maples-1.jpg" caption="Perth of Ontario celebrates 40th annual festival of the maples - Pix on Trips" />
