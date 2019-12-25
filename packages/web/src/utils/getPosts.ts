@@ -26,7 +26,7 @@ export interface Post {
 
 export const getPosts = (): Post[] => {
   // Context module exports require function that takes filename as argument
-  const context = require.context("../posts", true, /\.mdx?$/);
+  const context = require.context("../../posts", true, /\.mdx?$/);
 
   // Keys property returns array of filenames
   return context
