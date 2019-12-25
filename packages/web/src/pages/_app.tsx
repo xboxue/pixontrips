@@ -1,40 +1,42 @@
+import { ApolloProvider } from "@apollo/react-hooks";
 import { MDXProvider } from "@mdx-js/react";
+import { ApolloClient } from "apollo-boost";
 import App from "next/app";
-import { createGlobalStyle, ThemeProvider } from "styled-components";
+import { ThemeProvider } from "styled-components";
 import { Footer } from "../components/Footer";
 import { Layout } from "../components/Layout";
 import { Nav } from "../components/Nav";
+import withApollo from "../lib/withApollo";
+import { GlobalStyle } from "../styles/GlobalStyle";
 import { components } from "../styles/markdown";
 import { theme } from "../styles/theme";
 
-const GlobalStyle = createGlobalStyle`
-  body {
-    margin: 0;
-    background-color: ${props => props.theme.colors.background};
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
-  }
-`;
+interface Props {
+  apollo: ApolloClient<any>;
+}
 
-class MyApp extends App {
+class MyApp extends App<Props> {
   render() {
-    const { Component, pageProps } = this.props;
+    const { Component, pageProps, apollo } = this.props;
     return (
       <>
-        <ThemeProvider theme={theme}>
-          <MDXProvider components={components}>
-            <>
-              <Nav />
-              <Layout pt="125px">
-                <GlobalStyle />
-                <Component {...pageProps} />
-              </Layout>
-              <Footer />
-            </>
-          </MDXProvider>
-        </ThemeProvider>
+        <ApolloProvider client={apollo}>
+          <ThemeProvider theme={theme}>
+            <MDXProvider components={components}>
+              <>
+                <Nav />
+                <Layout pt="125px">
+                  <GlobalStyle />
+                  <Component {...pageProps} />
+                </Layout>
+                <Footer />
+              </>
+            </MDXProvider>
+          </ThemeProvider>
+        </ApolloProvider>
       </>
     );
   }
 }
 
-export default MyApp;
+export default withApollo(MyApp);

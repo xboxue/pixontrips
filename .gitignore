@@ -1,3 +1,5 @@
 node_modules
 .next
 ormconfig.json
+*.env
+packages/web/src/graphql/types.ts
