@@ -15,7 +15,7 @@
     "@next/mdx": "^9.1.5",
     "apollo-boost": "^0.4.7",
     "graphql": "^14.5.8",
-    "next": "9.1.6",
+    "next": "9.3.2",
     "next-with-apollo": "^4.3.0",
     "react": "16.9.0",
     "react-dom": "16.9.0",
