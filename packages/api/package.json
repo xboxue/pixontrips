@@ -9,7 +9,7 @@
     "graphql": "^14.5.8",
     "pg": "^7.15.1",
     "reflect-metadata": "^0.1.13",
-    "type-graphql": "^0.17.5",
+    "type-graphql": "^0.17.6",
     "typeorm": "^0.2.21"
   },
   "devDependencies": {
